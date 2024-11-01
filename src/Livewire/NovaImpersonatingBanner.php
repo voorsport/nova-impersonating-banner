@@ -2,7 +2,7 @@
 
 namespace RhysLees\NovaImpersonatingBanner\Livewire;
 
-use App\Models\User;
+use App\Nova\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Laravel\Nova\Contracts\ImpersonatesUsers;
 use Livewire\Component;
